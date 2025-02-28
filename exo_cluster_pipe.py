@@ -4,7 +4,7 @@ author: Cary Brown
 author_url: https://github.com/carybrown
 version: 0.1.2
 
-This module defines a Pipe class that connects to a local exo LLM endpoint
+This function defines a pipe class in OpenWeb UI  that connects to a local exo cluster chatGPT compatiable endpoint.
 
 Note:  Change endpoint to the URL for the exo API endpoint below to chatGPT compatiable endpoint URL provided when you run exo
 """
